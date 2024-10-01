@@ -1,1 +1,1 @@
-# classifier-template-smart-ipdc-generator-group-8
+# classifier-template-ipdc-generator-group-8
